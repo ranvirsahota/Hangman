@@ -16,6 +16,10 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
 ## Installation instructions
 
 ## Usage instructions
+- The program will randomly pic a word from a pre-made list
+- User will be asked to guess the word, must input a valid input
+- Until user does user will continously asked for an input
+- Valid input has character and is from the alphabet
 
 ## File structure of the project
 
