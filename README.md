@@ -10,10 +10,13 @@
 
 ## Description
 Hangman is a classic game in which a player thinks of a word and the other player tries to guess that word within a certain amount of attempts.
-
 This is an implementation of the Hangman game, where the computer thinks of a word and the user tries to guess it. 
+Syntax knowledge only solidified, no new knoweledge gained
 
 ## Installation instructions
+1. Download the milestone_5.py file
+2. Run milestone_5 in python interpretor (in Linux the command to run it is: 'python milestone_5.py') 
+3. The program will execute and output statements to the terminal and prompt for input
 
 ## Usage instructions
 - The program will randomly pic a word from a pre-made list
@@ -30,4 +33,6 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
         |-milestone_4.py
     .gitignore
     README.md
+
 ## License information
+No Licenece
